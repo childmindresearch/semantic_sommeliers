@@ -28,7 +28,7 @@ To set up the Semantic Sommeliers system on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/semantic-sommeliers.git
+    git clone https://github.com/childmindresearch/semantic-sommeliers.git
     cd semantic-sommeliers
     ```
 
@@ -65,7 +65,7 @@ To set up the Semantic Sommeliers system on your local machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-repository/semantic_sommeliers.git
+   git clone https://github.com/childmindresearch/semantic_sommeliers.git
    cd semantic_sommeliers
     ```
 
